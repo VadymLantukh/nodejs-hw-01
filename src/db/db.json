@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "0d3e69c7-eb42-4e8e-8580-c9c9d3629495",
+    "name": "Israel Brekke",
+    "phone": "(945) 570-8795 x73248",
+    "email": "Joshua.Bednar@hotmail.com",
+    "job": "Legacy Directives Administrator"
+  },
+  {
+    "id": "6a710cb3-ba8f-4b12-8e94-8ee80fad7fa2",
+    "name": "Ms. Jacquelyn Batz",
+    "phone": "(702) 567-2996 x9315",
+    "email": "Shanna_Pagac80@gmail.com",
+    "job": "Regional Division Specialist"
+  },
+  {
+    "id": "89bcf556-a3ee-4ad9-a566-d4dc72b13db6",
+    "name": "Alan Effertz II",
+    "phone": "581.496.7826",
+    "email": "Tad_Walter@yahoo.com",
+    "job": "Principal Creative Coordinator"
+  },
+  {
+    "id": "c3b01ee4-3414-47c8-a651-c821517c56b4",
+    "name": "Susan Schumm",
+    "phone": "356.697.0894 x15746",
+    "email": "Philip.Schaden83@yahoo.com",
+    "job": "Central Brand Supervisor"
+  }
+]
